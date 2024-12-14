@@ -105,6 +105,12 @@ This project is brought to you by:
 
 ---
 
+### Contributing
+We welcome contributions from everyone! To learn how you can contribute, please see our [Contributing Guidelines](CONTRIBUTING.md).
+
+### Code of Conduct
+Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) in place to ensure that all participants can contribute in a respectful and welcoming environment.
+
 ### License 📜
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
    
