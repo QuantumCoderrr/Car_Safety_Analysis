@@ -89,11 +89,11 @@ Our analysis yielded the following insights:
 
 ### Output Visualizations
 
-**1. Visualization A**  
-![Visualization A](images/output1.png)
+**1. Feature Importance Analysis**  
+![Feature Importance](images/feature_importance.png)
 
-**2. Visualization B**  
-![Visualization B](images/output2.png)
+**2. Confusion Matrix**  
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
