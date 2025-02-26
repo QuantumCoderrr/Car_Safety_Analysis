@@ -101,7 +101,7 @@ Our analysis yielded the following insights:
 This project is brought to you by:
 - [Sandip Ghosh](https://github.com/QuantumCoderrr)
 - [Abhirup Raha](https://github.com/MesvRon)
-- [Anushka Goswami](https://github.com/Friend2Username)
+- [Anushka Goswami](https://github.com/anushka16-gitt)
 
 ---
 
